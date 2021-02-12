@@ -1,16 +1,37 @@
 body {
-	background-color: #B2E9FD;
+	background-color: #ebf4f6;
 }
 
 .header h2 {
-	color: #DC4247;
+	color: #5e5656;
 }
 
 .header p {
-	color: #50524F;
+	color: #58668b;
 }
 
 .results {
 	margin-top: 20px;
 }
 
+.row {
+	
+}
+
+.movies-container {
+	display: flex;
+	justify-content: space-between;	
+}
+
+.image {
+
+}
+
+.movie-title {
+
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+}
